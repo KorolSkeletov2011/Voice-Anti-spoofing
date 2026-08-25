@@ -1,0 +1,6 @@
+{
+  "split": "dev",
+  "accuracy": 0.9419,
+  "eer_percent": 2.4343,
+  "note": "Recorded development-set result from the project experiment. Evaluation-set results are not claimed here."
+}
