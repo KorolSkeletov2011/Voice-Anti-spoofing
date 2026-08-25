@@ -1,0 +1,5 @@
+torch>=2.2
+numpy>=1.26
+soundfile>=0.12
+tqdm>=4.66
+wandb>=0.17
