@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and audio
+data/
+datasets/
+*.flac
+*.wav
+
+# Experiments / logs
+wandb/
+logs/
+
+# Model artifacts
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Generated scores
+results/*.csv
